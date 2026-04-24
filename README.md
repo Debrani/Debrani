@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @Debrani
-- 👀 I’m interested in app developing and web developing
-- 🌱 I’m currently learning 3d animation
-- 💞️ I’m looking to collaborate on designing
-- 📫 How to reach me via email:reddydebrani@gmail.com
+# 👋 Hi, I’m Debrani
 
+💼 Salesforce Developer | CRM Enthusiast | React Portfolio Builder
 
-<!---
-Debrani/Debrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in Salesforce Development, Lightning Web Components (LWC), Apex, and CRM solutions.
+
+🌱 I’m currently learning advanced Salesforce customization, integrations, and 3D animation.
+
+💞️ I’m looking to collaborate on Salesforce projects, frontend development, and innovative CRM solutions.
+
+🚀 Skills:
+- Salesforce Administration
+- Apex
+- Lightning Web Components (LWC)
+- SOQL / SOSL
+- Flow Automation
+- React.js
+- Health Cloud
+-Education Cloud
+
+📫 How to reach me:
+Email: reddydebrani@gmail.com
