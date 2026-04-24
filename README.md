@@ -4,7 +4,7 @@
 
 👀 I’m interested in Salesforce Development, Lightning Web Components (LWC), Apex, and CRM solutions.
 
-🌱 I’m currently learning advanced Salesforce customization, integrations, and 3D animation.
+🌱 I’m currently learning advanced Salesforce customization, integrations
 
 💞️ I’m looking to collaborate on Salesforce projects, frontend development, and innovative CRM solutions.
 
